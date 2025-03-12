@@ -36,5 +36,5 @@ This repository contains SQL queries and documentation for analyzing a car shari
 The original dataset was obtained from a car_sharing company and includes hourly data on customer demand rates, weather conditions and temperature. Due to privacy consideration, the dataset has been  anonymized and sanitized.
 
 ## Author
-[Adedeji Fashola](https://www.linkedin.com/in/fashola-adedeji-102073352/)
+[Adedeji Fashola](https://www.linkedin.com/in/adedeji-fashola-102073352/)
   
